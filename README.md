@@ -1,6 +1,8 @@
 # Secure Chat Application with Signal Protocol
 
-This project implements a secure chat application using the Signal Protocol for encrypted communication. The application uses pre-keys, signed pre-keys, and identity keys to establish secure sessions between users, ensuring the privacy and integrity of messages. Real-time communication is achieved through WebSockets, and all messages are encrypted/decrypted using the Signal Protocol.
+#### This project implements a secure chat application using the Signal Protocol for encrypted communication. The application uses pre-keys, signed pre-keys, and identity keys to establish secure sessions between users, ensuring the privacy and integrity of messages. Real-time communication is achieved through WebSockets, and all messages are encrypted/decrypted using the Signal Protocol.
+
+![Sequence Diagram](images/diagram.png "Sequence Diagram of Secure Chat")
 
 ## Features
 
